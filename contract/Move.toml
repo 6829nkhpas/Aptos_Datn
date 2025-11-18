@@ -1,0 +1,15 @@
+[package]
+name = "ecommerce-platform"
+version = "1.0.0"
+authors = []
+
+[addresses]
+ecommerce_platform = "_"
+
+[dev-addresses]
+ecommerce_platform = "0xd8d5d43724c7140635f480fd9e4d32cb9b75f01615584ad63cc899d4aa29b89f"
+
+[dependencies]
+AptosFramework = { git = "https://github.com/aptos-labs/aptos-framework.git", rev = "mainnet", subdir = "aptos-framework" }
+
+[dev-dependencies]
