@@ -9,6 +9,7 @@ import FeaturedProductsSection from '@/components/landing/FeaturedProductsSectio
 import StatsSection from '@/components/landing/StatsSection';
 import TestimonialsSection from '@/components/landing/TestimonialsSection';
 import CTASection from '@/components/landing/CTASection';
+import TradeFlowSection from '@/components/landing/TradeFlowSection';
 
 export default function Home() {
   const router = useRouter();
@@ -40,6 +41,9 @@ export default function Home() {
 
       {/* How It Works Section */}
       <HowItWorksSection />
+
+      {/* Trade Flow & Architecture Section */}
+      <TradeFlowSection />
 
       {/* Stats Section */}
       <StatsSection />
