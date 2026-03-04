@@ -6,8 +6,8 @@ import { cn } from '@/lib/utils';
 import { User, Star } from 'lucide-react';
 
 const testimonials = [
-  { name: 'Sarah Johnson', role: 'Electronics Seller', content: 'DATN Marketplace revolutionized my online selling. The blockchain security gives buyers confidence, and I get paid instantly.', rating: 5 },
-  { name: 'Michael Chen', role: 'Fashion Buyer', content: 'Finally, a marketplace where I can trust every transaction. The escrow system is genius - my purchases are always protected.', rating: 5 },
+  { name: 'Sara', role: 'Electronics Seller', content: 'DATN Marketplace revolutionized my online selling. The blockchain security gives buyers confidence, and I get paid instantly.', rating: 5 },
+  { name: 'Michael ', role: 'Fashion Buyer', content: 'Finally, a marketplace where I can trust every transaction. The escrow system is genius - my purchases are always protected.', rating: 5 },
   { name: 'Emma Williams', role: 'Collectibles Trader', content: 'The DATN token rewards make trading here incredibly rewarding. Plus, zero fraud thanks to smart contracts.', rating: 5 },
 ];
 
