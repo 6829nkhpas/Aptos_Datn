@@ -7,7 +7,7 @@ import { Lock, Zap, Shield, Gem, Globe, BarChart } from 'lucide-react';
 
 const features = [
   { Icon: Lock, title: 'Secure Escrow', description: 'Smart contract-based escrow ensures funds are protected until delivery confirmation', color: 'bg-blue-50 dark:bg-blue-950/30 border-blue-200 dark:border-blue-900 text-blue-600 dark:text-blue-400' },
-  { Icon: Zap, title: 'Lightning Fast', description: 'Built on Volta Network for instant transactions with minimal gas fees', color: 'bg-yellow-50 dark:bg-yellow-950/30 border-yellow-200 dark:border-yellow-900 text-yellow-600 dark:text-yellow-400' },
+  { Icon: Zap, title: 'Lightning Fast', description: 'Built on Aptos for instant transactions with minimal gas fees', color: 'bg-yellow-50 dark:bg-yellow-950/30 border-yellow-200 dark:border-yellow-900 text-yellow-600 dark:text-yellow-400' },
   { Icon: Shield, title: 'Dispute Resolution', description: 'Fair and transparent dispute handling system', color: 'bg-purple-50 dark:bg-purple-950/30 border-purple-200 dark:border-purple-900 text-purple-600 dark:text-purple-400' },
   { Icon: Gem, title: 'DATN Token', description: 'Native cryptocurrency for marketplace transactions', color: 'bg-green-50 dark:bg-green-950/30 border-green-200 dark:border-green-900 text-green-600 dark:text-green-400' },
   { Icon: Globe, title: 'Decentralized', description: 'No middlemen. Complete peer-to-peer trading freedom', color: 'bg-indigo-50 dark:bg-indigo-950/30 border-indigo-200 dark:border-indigo-900 text-indigo-600 dark:text-indigo-400' },
